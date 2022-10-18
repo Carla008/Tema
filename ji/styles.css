@@ -1,0 +1,133 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+.div1{
+    background-image: linear-gradient(to bottom right, violet, blue);
+    border: 5px dashed yellow;
+    padding: 30px;
+    text-align: center;  
+}
+.hh1{
+    font-family: "Brush Script MT", cursive;
+    font-style: oblique; 
+    font-size: 50px;
+}
+.hh3{
+    font-family: Garamond, serif;
+    font-style: italic; 
+    font-size: 30px;
+}
+.img1{
+    border-radius: 50%;
+    width: 100px;
+    font-weight: 100;
+}
+.div2{
+    text-align: center;
+}
+.div3{
+    text-align: center;
+    vertical-align: middle;
+font-size:40px;
+color:black;
+}
+.hh2{
+    text-align: center;
+    color:red;
+    font-family: Tahoma, Verdana, sans-serif;
+    font-style: bold; 
+    font-size: 40px;
+}
+.p1{
+    font-family: Geneva, Verdana, sans-serif;
+    font-style: normal; 
+    font-size: 20px;
+}
+.div4{
+ background-color: aqua;
+ padding: 20px;   
+ margin-top: 50px;
+}
+.img2{
+    width: 100px;
+    font-weight: 100;
+    float: left;
+    margin-bottom: 20px;
+}
+.p2,.p3{
+    display: inline;
+}
+.img3{
+    width: 100px;
+    font-weight: 100;
+    float: right;
+    margin-top: 60px;
+}
+
+.p2{
+color:red;
+font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-style: normal; 
+font-size: 30px;
+}
+.p3{
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal; 
+font-size: 20px;
+}
+.div6{
+    margin-top:70px;
+}
+.div7{
+    padding: 40px;
+}
+.div8{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.button1{
+    border-radius: 100px;
+    background-color: yellow;
+    color:blue;
+    cursor: pointer;
+    font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  transition: all 250ms;
+  font-size: 20px;
+  touch-action: manipulation;
+}
+.div9{
+    background-image: linear-gradient(to top left, pink, blue);
+    padding: 30px;
+    text-align: center;  
+}
+.p4{
+    display: inline-block;
+    color:black;
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+}
+/* CSS 
+.button-33 {
+  background-color: #c2fbd7;
+  border-radius: 100px;
+  box-shadow: rgba(44, 187, 99, .2) 0 -25px 18px -14px inset,rgba(44, 187, 99, .15) 0 1px 2px,rgba(44, 187, 99, .15) 0 2px 4px,rgba(44, 187, 99, .15) 0 4px 8px,rgba(44, 187, 99, .15) 0 8px 16px,rgba(44, 187, 99, .15) 0 16px 32px;
+  color: green;
+  cursor: pointer;
+  display: inline-block;
+  font-family: CerebriSans-Regular,-apple-system,system-ui,Roboto,sans-serif;
+  padding: 7px 20px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 250ms;
+  border: 0;
+  font-size: 16px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-33:hover {
+  box-shadow: rgba(44,187,99,.35) 0 -25px 18px -14px inset,rgba(44,187,99,.25) 0 1px 2px,rgba(44,187,99,.25) 0 2px 4px,rgba(44,187,99,.25) 0 4px 8px,rgba(44,187,99,.25) 0 8px 16px,rgba(44,187,99,.25) 0 16px 32px;
+  transform: scale(1.05) rotate(-1deg);
+}*/
